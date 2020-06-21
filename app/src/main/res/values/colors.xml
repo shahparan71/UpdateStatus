@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#00aeb3</color>
+    <color name="colorPrimaryDark">#00aeb3</color>
+    <color name="colorAccent">#00aeb3</color>
+    <color name="buttonTextColor">#f4f1f1</color>
+    <color name="white">#ffffff</color>
+    <color name="off_white">#BFEAEB</color>
+    <color name="Yoda_yellow1">#ffd800</color>
+    <color name="Yoda_yellow_shadow">#EAC01A</color>
+    <color name="Yoda_black">#221e1f</color>
+    <color name="Yoda_gray_dark">#5a5b5d</color>
+    <color name="Yoda_white">#f7f7f7</color>
+    <color name="Yoda_white_progress">#F1ECEC</color>
+    <color name="button_font_color">#f7f7f7</color>
+    <color name="Yoda_blue">#1d8eb4</color>
+    <color name="Yoda_light_blue">#00aeb3</color>
+    <color name="Yoda_light_blue_white">#51D0D4</color>
+    <color name="Yoda_light_blue_tab_ripple">#91B6B7</color>
+    <color name="Yoda_light_blue_shadow">#009B9B</color>
+    <color name="Yoda_dark_blue">#00718e</color>
+    <color name="Yoda_dark_blue_profile_name">#00718e</color>
+    <color name="yoda_gray">#e3e1e1</color>
+    <color name="yoda_gray_light">#f2f0f0</color>
+    <color name="Yoda_gray_temp">#a0a2a3</color>
+    <color name="Yoda_gray_temp_tk">#bfbfbf</color>
+    <color name="Yoda_red">#F15D5B</color>
+    <color name="Yoda_red_dark">#CE5150</color>
+
+
+    <!-- Text color of the search box text as entered by user  -->
+    <!-- Background color of the search box -->
+    <!-- Text color of the search box hint text  -->
+
+</resources>

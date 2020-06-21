@@ -1,0 +1,59 @@
+<resources>
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="nav_header_vertical_spacing">4dp</dimen>
+    <dimen name="each_tag_title">16sp</dimen>
+    <dimen name="textInputHeight">45dp</dimen>
+    <dimen name="marginTopField">10dp</dimen>
+    <dimen name="nextStepButtonHeight">52dp</dimen>
+    <dimen name="fragmentMarginAllSide">20dp</dimen>
+    <dimen name="editTextHeight">35dp</dimen>
+    <dimen name="fontSizeAllFiled">14sp</dimen>
+    <dimen name="backArrowMarginLeft">10dp</dimen>
+    <dimen name="spinerArrowWidth">16dp</dimen>
+    <dimen name="allButtonTextSize">20sp</dimen>
+    <dimen name="scheduleCheckmarkHeight">20dp</dimen>
+    <dimen name="fontSizeAllFiledSmall">12dp</dimen>
+    <dimen name="topHeightJobList">-8dp</dimen>
+    <dimen name="leftmarginJobs">15dp</dimen>
+    <dimen name="messageProfileImageSize">65dp</dimen>
+    <dimen name="leftMargin45">1dp</dimen>
+    <dimen name="leftMargin46">10dp</dimen>
+    <dimen name="marginBottomSetting">10dp</dimen>
+    <dimen name="heightEditTextSetting">40dp</dimen>
+    <dimen name="socialIconSize">25dp</dimen>
+    <dimen name="allFavoriteSize">24dp</dimen>
+
+    <!-- Margin to the left and right of the search box. -->
+    <!-- Margin above the search box. -->
+    <!-- Margin below the search box. -->
+    <!-- Search box interior padding - left -->
+    <!-- Search box interior padding - right -->
+
+    <!-- Padding around the icon in the search box. -->
+
+    <!-- Size of the icon (voice search, back arrow) in the search box. -->
+    <!-- Size of the close icon.
+         Because it expands diagonally, it needs to be shrunk to look relatively the same size -->
+    <!-- Padding around back arrow icon in the search box -->
+    <!-- Padding around close icon in the search box -->
+    <!-- Left margin of the text field in the search box. -->
+    <!-- Search box text size -->
+
+    <!-- Approx Size of the layout. This is not used anywhere in layouts
+            but can be used to give margin on the main activity. -->
+    <dimen name="fontSizeAllFiled15">16sp</dimen>
+    <dimen name="fontSizeAllFiled12">13sp</dimen>
+    <dimen name="tabHeight">40dp</dimen>
+    <dimen name="marginTopGuidelineText">-2dp</dimen>
+    <dimen name="heightInfoButton">40dp</dimen>
+    <dimen name="buttonCornerRadius">25dp</dimen>
+    <dimen name="marginLeftYodaProfile">10dp</dimen>
+    <dimen name="marginLeftMyYoda">10dp</dimen>
+    <dimen name="crossWidthSSCHSC">11dp</dimen>
+    <dimen name="buttonCornerRadiusMaterial">25dp</dimen>
+    <dimen name="spacing_middle">5dp</dimen>
+    <dimen name="spacing_smlarge">5dp</dimen>
+    <dimen name="spacing_mxlarge">30dp</dimen>
+
+</resources>
